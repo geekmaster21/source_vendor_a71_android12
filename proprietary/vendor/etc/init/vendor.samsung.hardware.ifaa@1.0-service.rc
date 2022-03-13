@@ -1,0 +1,4 @@
+service vendor.hal_ifaa_v1.0 /vendor/bin/hw/vendor.samsung.hardware.ifaa@1.0-service
+    class hal
+    user system
+    group system
